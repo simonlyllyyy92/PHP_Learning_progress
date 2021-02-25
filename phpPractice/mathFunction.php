@@ -15,11 +15,11 @@
         echo "<br>";
         echo sqrt(36);// 拆方
         echo "<br>";
-        echo ceil(4.1)// --> output 5
+        echo ceil(4.1);// --> output 5
         echo "<br>";
-        echo floor(4.6) // --> output 4, 
+        echo floor(4.6) ;// --> output 4, 
         echo "<br>";
-        echo round(4.5) // --> output 5  四舍五入
+        echo round(4.5) ;// --> output 5  四舍五入
     ?>
 </body>
 </html>
