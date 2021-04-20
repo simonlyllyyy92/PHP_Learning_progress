@@ -11,3 +11,7 @@ Updated:  25th Feb add new practice file mathFunction, stringFunction , arrayFun
 Mainly learned some built in php functions like sort(), is_array(), print_r(), strlen(), and how to build a simple form using php, and how to use super global $_POST variables
 
 For further php built in function documentation check https://www.php.net/manual/en/
+
+Updated: 20th April 
+
+In php, to change the value of a global variable inside a funtion, we need to use the 'global' definition
