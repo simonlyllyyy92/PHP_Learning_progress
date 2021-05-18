@@ -15,3 +15,6 @@ For further php built in function documentation check https://www.php.net/manual
 Updated: 20th April 
 
 In php, to change the value of a global variable inside a funtion, we need to use the 'global' definition
+
+Updated: 18th May
+Learned how to create database and read database from php my admin
