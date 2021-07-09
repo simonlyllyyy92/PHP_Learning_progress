@@ -18,3 +18,7 @@ In php, to change the value of a global variable inside a funtion, we need to us
 
 Updated: 18th May
 Learned how to create database and read database from php my admin
+
+Updated: June 
+Learned how to connect database from myphp admin , and submit a form while reading, creating or updating data from a database
+and more importantly how to submit the form with data to a another file ( use action attribute from the Form)
